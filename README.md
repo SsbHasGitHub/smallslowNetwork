@@ -1,2 +1,2 @@
-# smallslownn
+# smallslowNetWork
 a deeplearning frame
